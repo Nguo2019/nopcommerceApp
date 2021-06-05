@@ -1,0 +1,311 @@
+2021-05-22 12:08:52,702-INFO-******Test_TC001******
+2021-05-22 12:08:52,702-INFO-******Verify Home Page Title******
+2021-05-22 12:08:57,655-INFO-******Home Page Title test  is passed!******
+2021-05-22 12:08:58,684-INFO-******Title of Start Page  after logging in******
+2021-05-22 12:09:01,480-INFO-******Login test is passed!******
+2021-05-22 12:11:28,021-INFO-******Test_TC001******
+2021-05-22 12:11:28,021-INFO-******Verify Home Page Title******
+2021-05-22 12:11:28,101-INFO-******Title of Start Page  after logging in******
+2021-05-22 12:11:31,266-INFO-******Home Page Title test  is passed!******
+2021-05-22 12:11:31,706-INFO-******Login test is passed!******
+2021-05-22 12:37:14,654-INFO-******Test_TC001******
+2021-05-22 12:37:14,654-INFO-******Verify Home Page Title******
+2021-05-22 12:37:17,882-INFO-******Home Page Title test  is passed!******
+2021-05-22 12:37:18,916-INFO-******Title of Start Page  after logging in******
+2021-05-22 12:37:22,412-INFO-******Login test is passed!******
+2021-05-22 12:50:02,233-INFO-******Test_TC001******
+2021-05-22 12:50:02,233-INFO-******Verify Home Page Title******
+2021-05-22 12:50:08,426-INFO-******Home Page Title test  is passed!******
+2021-05-22 12:50:09,430-INFO-******Title of Start Page  after logging in******
+2021-05-22 12:50:13,111-INFO-******Login test is passed!******
+2021-05-22 12:52:03,443-INFO-******Test_TC001******
+2021-05-22 12:52:03,444-INFO-******Verify Home Page Title******
+2021-05-22 12:52:06,665-INFO-******Home Page Title test  is passed!******
+2021-05-22 12:52:07,646-INFO-******Title of Start Page  after logging in******
+2021-05-22 12:52:11,178-INFO-******Login test is passed!******
+2021-05-22 12:54:10,418-INFO-******Test_TC001******
+2021-05-22 12:54:10,418-INFO-******Verify Home Page Title******
+2021-05-22 12:54:13,766-INFO-******Home Page Title test  is passed!******
+2021-05-22 12:54:14,763-INFO-******Title of Start Page  after logging in******
+2021-05-22 12:54:17,989-INFO-******Login test is passed!******
+2021-05-22 13:04:10,031-INFO-******Test_TC001******
+2021-05-22 13:04:10,031-INFO-******Verify Home Page Title******
+2021-05-22 13:04:11,729-INFO-******Home Page Title test  is passed!******
+2021-05-22 13:04:16,433-INFO-******Title of Start Page  after logging in******
+2021-05-22 13:04:18,794-INFO-******Login test is passed!******
+2021-05-22 13:10:31,430-INFO-******Test_TC001******
+2021-05-22 13:10:31,430-INFO-******Verify Home Page Title******
+2021-05-22 13:10:33,218-INFO-******Home Page Title test  is passed!******
+2021-05-22 13:10:37,877-INFO-******Title of Start Page  after logging in******
+2021-05-22 13:10:40,298-INFO-******Login test is passed!******
+2021-05-22 13:15:20,445-INFO-******Test_TC001******
+2021-05-22 13:15:20,446-INFO-******Verify Home Page Title******
+2021-05-22 13:15:23,687-INFO-******Home Page Title test  is passed!******
+2021-05-22 13:15:24,675-INFO-******Title of Start Page  after logging in******
+2021-05-22 13:15:27,959-ERROR-******Login test is failed******
+2021-05-22 13:16:38,643-INFO-******Test_TC001******
+2021-05-22 13:16:38,644-INFO-******Verify Home Page Title******
+2021-05-22 13:16:43,605-INFO-******Home Page Title test  is passed!******
+2021-05-22 13:16:44,566-INFO-******Title of Start Page  after logging in******
+2021-05-22 13:16:49,589-INFO-******Login test is passed!******
+2021-05-22 16:26:40,463-INFO-****************Test_002_Login_ddt*************
+2021-05-22 16:26:40,463-INFO-******Verify Login DDT Test******
+2021-05-22 16:28:11,185-INFO-****************Test_002_Login_ddt*************
+2021-05-22 16:28:11,185-INFO-******Verify Login DDT Test******
+2021-05-22 16:29:28,953-INFO-****************Test_002_Login_ddt*************
+2021-05-22 16:29:28,953-INFO-******Verify Login DDT Test******
+2021-05-22 16:30:01,069-INFO-****************Test_002_Login_ddt*************
+2021-05-22 16:30:01,070-INFO-******Verify Login DDT Test******
+2021-05-22 16:43:14,232-INFO-******Test_TC001******
+2021-05-22 16:43:14,232-INFO-******Verify Home Page Title******
+2021-05-22 16:43:15,970-INFO-******Home Page Title test  is passed!******
+2021-05-22 16:43:20,681-INFO-******Title of Start Page  after logging in******
+2021-05-22 16:43:24,104-INFO-******Login test is passed!******
+2021-05-22 16:43:38,390-INFO-****************Test_002_Login_ddt*************
+2021-05-22 16:43:38,390-INFO-******Verify Login DDT Test******
+2021-05-23 22:31:44,030-INFO-*************Test_003_AddCustomer********
+2021-05-23 22:37:40,587-INFO-*************Test_003_AddCustomer********
+2021-05-23 22:37:45,731-INFO-******Login successful****
+2021-05-23 22:37:45,731-INFO-******starting add customer Test***
+2021-05-23 22:41:07,492-INFO-*************Test_003_AddCustomer********
+2021-05-23 22:41:10,866-INFO-******Login successful****
+2021-05-23 22:41:10,866-INFO-******starting add customer Test***
+2021-05-23 22:43:16,416-INFO-*************Test_003_AddCustomer********
+2021-05-23 22:43:21,396-INFO-******Login successful****
+2021-05-23 22:43:21,396-INFO-******starting add customer Test***
+2021-05-23 22:43:21,517-INFO-***to click  customer item***
+2021-05-23 22:47:53,869-INFO-*************Test_003_AddCustomer********
+2021-05-23 22:48:27,234-INFO-******Login successful****
+2021-05-23 22:48:27,234-INFO-******starting add customer Test***
+2021-05-23 22:48:27,317-INFO-***to click  customer item***
+2021-05-23 22:58:12,952-INFO-*************Test_003_AddCustomer********
+2021-05-23 22:58:17,911-INFO-******Login successful****
+2021-05-23 22:58:17,911-INFO-******starting add customer Test***
+2021-05-23 22:58:18,027-INFO-***to click  customer item***
+2021-05-23 22:58:27,334-INFO-***Providing customer info***
+2021-05-23 23:02:21,138-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:02:24,457-INFO-******Login successful****
+2021-05-23 23:02:24,457-INFO-******starting add customer Test***
+2021-05-23 23:02:24,584-INFO-***to click  customer item***
+2021-05-23 23:02:31,000-INFO-***Providing customer info***
+2021-05-23 23:03:50,755-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:03:54,700-INFO-******Login successful****
+2021-05-23 23:03:54,700-INFO-******starting add customer Test***
+2021-05-23 23:03:54,788-INFO-***to click  customer item***
+2021-05-23 23:04:01,883-INFO-***Providing customer info***
+2021-05-23 23:05:41,367-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:05:46,735-INFO-******Login successful****
+2021-05-23 23:05:46,735-INFO-******starting add customer Test***
+2021-05-23 23:05:46,833-INFO-***to click  customer item***
+2021-05-23 23:05:54,024-INFO-***Providing customer info***
+2021-05-23 23:05:54,291-INFO-***to input first name*****
+2021-05-23 23:05:54,362-INFO-***to input last  name*****
+2021-05-23 23:05:54,417-INFO-***to input dom*****
+2021-05-23 23:07:24,288-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:07:27,636-INFO-******Login successful****
+2021-05-23 23:07:27,636-INFO-******starting add customer Test***
+2021-05-23 23:07:27,780-INFO-***to click  customer item***
+2021-05-23 23:07:30,070-INFO-***Providing customer info***
+2021-05-23 23:07:30,339-INFO-***to input first name*****
+2021-05-23 23:07:30,403-INFO-***to input last  name*****
+2021-05-23 23:07:30,457-INFO-***to input dom*****
+2021-05-23 23:12:28,736-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:12:34,152-INFO-******Login successful****
+2021-05-23 23:12:34,152-INFO-******starting add customer Test***
+2021-05-23 23:12:34,289-INFO-***to click  customer item***
+2021-05-23 23:14:19,424-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:14:23,063-INFO-******Login successful****
+2021-05-23 23:14:23,063-INFO-******starting add customer Test***
+2021-05-23 23:14:23,190-INFO-***to click  customer item***
+2021-05-23 23:14:29,636-INFO-***Providing customer info***
+2021-05-23 23:14:29,892-INFO-***to input first name*****
+2021-05-23 23:14:29,967-INFO-***to input last  name*****
+2021-05-23 23:14:30,021-INFO-***to input dom*****
+2021-05-23 23:14:30,948-INFO-***Saving customer info*****
+2021-05-23 23:14:30,949-INFO-***Add customer validation***
+2021-05-23 23:14:31,154-INFO-*************Add customer Test Passed*************
+2021-05-23 23:14:31,181-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:14:40,015-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:14:43,373-INFO-******Login successful****
+2021-05-23 23:14:43,375-INFO-******starting add customer Test***
+2021-05-23 23:14:43,598-INFO-***to click  customer item***
+2021-05-23 23:14:50,083-INFO-***Providing customer info***
+2021-05-23 23:14:50,345-INFO-***to input first name*****
+2021-05-23 23:14:50,408-INFO-***to input last  name*****
+2021-05-23 23:14:50,463-INFO-***to input dom*****
+2021-05-23 23:14:51,791-INFO-***Saving customer info*****
+2021-05-23 23:14:51,791-INFO-***Add customer validation***
+2021-05-23 23:14:51,981-INFO-*************Add customer Test Passed*************
+2021-05-23 23:14:52,018-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:15:00,867-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:15:04,214-INFO-******Login successful****
+2021-05-23 23:15:04,214-INFO-******starting add customer Test***
+2021-05-23 23:15:04,362-INFO-***to click  customer item***
+2021-05-23 23:15:10,776-INFO-***Providing customer info***
+2021-05-23 23:15:11,034-INFO-***to input first name*****
+2021-05-23 23:15:11,102-INFO-***to input last  name*****
+2021-05-23 23:15:11,157-INFO-***to input dom*****
+2021-05-23 23:15:12,093-INFO-***Saving customer info*****
+2021-05-23 23:15:12,093-INFO-***Add customer validation***
+2021-05-23 23:15:12,302-INFO-*************Add customer Test Passed*************
+2021-05-23 23:15:12,329-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:16:49,977-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:16:52,814-INFO-******Login successful****
+2021-05-23 23:16:52,814-INFO-******starting add customer Test***
+2021-05-23 23:16:53,615-INFO-***to click  customer item***
+2021-05-23 23:18:41,261-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:18:44,368-INFO-******Login successful****
+2021-05-23 23:18:44,368-INFO-******starting add customer Test***
+2021-05-23 23:18:45,148-INFO-***to click  customer item***
+2021-05-23 23:19:06,144-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:19:11,480-INFO-******Login successful****
+2021-05-23 23:19:11,480-INFO-******starting add customer Test***
+2021-05-23 23:19:11,637-INFO-***to click  customer item***
+2021-05-23 23:19:18,404-INFO-***Providing customer info***
+2021-05-23 23:19:18,663-INFO-***to input first name*****
+2021-05-23 23:19:18,731-INFO-***to input last  name*****
+2021-05-23 23:19:18,786-INFO-***to input dom*****
+2021-05-23 23:19:19,827-INFO-***Saving customer info*****
+2021-05-23 23:19:19,827-INFO-***Add customer validation***
+2021-05-23 23:19:20,017-INFO-*************Add customer Test Passed*************
+2021-05-23 23:19:20,045-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:25:56,103-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:26:00,485-INFO-******Login successful****
+2021-05-23 23:26:00,485-INFO-******starting add customer Test***
+2021-05-23 23:26:00,589-INFO-***to click  customer item***
+2021-05-23 23:26:07,671-INFO-***Providing customer info***
+2021-05-23 23:26:07,941-INFO-***to input first name*****
+2021-05-23 23:26:08,011-INFO-***to input last  name*****
+2021-05-23 23:26:08,066-INFO-***to input dom*****
+2021-05-23 23:26:09,058-INFO-***Saving customer info*****
+2021-05-23 23:26:09,058-INFO-***Add customer validation***
+2021-05-23 23:26:09,235-INFO-*************Add customer Test Passed*************
+2021-05-23 23:26:09,271-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:26:22,238-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:26:27,564-INFO-******Login successful****
+2021-05-23 23:26:27,564-INFO-******starting add customer Test***
+2021-05-23 23:26:27,728-INFO-***to click  customer item***
+2021-05-23 23:26:35,162-INFO-***Providing customer info***
+2021-05-23 23:26:35,448-INFO-***to input first name*****
+2021-05-23 23:26:35,515-INFO-***to input last  name*****
+2021-05-23 23:26:35,572-INFO-***to input dom*****
+2021-05-23 23:26:36,718-INFO-***Saving customer info*****
+2021-05-23 23:26:36,718-INFO-***Add customer validation***
+2021-05-23 23:26:36,912-INFO-*************Add customer Test Passed*************
+2021-05-23 23:26:36,913-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:27:06,740-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:27:10,286-INFO-******Login successful****
+2021-05-23 23:27:10,286-INFO-******starting add customer Test***
+2021-05-23 23:27:10,455-INFO-***to click  customer item***
+2021-05-23 23:27:16,968-INFO-***Providing customer info***
+2021-05-23 23:27:17,240-INFO-***to input first name*****
+2021-05-23 23:27:17,310-INFO-***to input last  name*****
+2021-05-23 23:27:17,368-INFO-***to input dom*****
+2021-05-23 23:27:18,376-INFO-***Saving customer info*****
+2021-05-23 23:27:18,376-INFO-***Add customer validation***
+2021-05-23 23:27:18,554-INFO-*************Add customer Test Passed*************
+2021-05-23 23:27:18,554-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-23 23:27:25,352-INFO-*************Test_003_AddCustomer********
+2021-05-23 23:27:28,525-INFO-******Login successful****
+2021-05-23 23:27:28,526-INFO-******starting add customer Test***
+2021-05-23 23:27:28,648-INFO-***to click  customer item***
+2021-05-23 23:27:35,533-INFO-***Providing customer info***
+2021-05-23 23:27:35,797-INFO-***to input first name*****
+2021-05-23 23:27:35,863-INFO-***to input last  name*****
+2021-05-23 23:27:35,918-INFO-***to input dom*****
+2021-05-23 23:27:37,623-INFO-***Saving customer info*****
+2021-05-23 23:27:37,623-INFO-***Add customer validation***
+2021-05-23 23:27:37,798-INFO-*************Add customer Test Passed*************
+2021-05-23 23:27:37,827-INFO-********Ending  Test_003_AddCustomer  Test
+2021-05-24 10:32:16,162-INFO-*************Test_003_AddCustomer********
+2021-05-24 10:32:21,026-INFO-******Login successful****
+2021-05-24 10:32:21,027-INFO-******starting add customer Test***
+2021-05-24 10:32:21,118-INFO-***to click  customer item***
+2021-05-24 10:32:28,285-INFO-***Providing customer info***
+2021-05-24 10:32:28,552-INFO-***to input first name*****
+2021-05-24 10:32:28,613-INFO-***to input last  name*****
+2021-05-24 10:32:28,668-INFO-***to input dom*****
+2021-05-24 10:32:29,584-INFO-***Saving customer info*****
+2021-05-24 10:32:29,584-INFO-***Add customer validation***
+2021-05-24 10:32:29,997-INFO-*************Add customer Test Passed*************
+2021-05-24 10:32:30,025-INFO-********Ending  Test_003_AddCustomer  Test
+2021-06-05 10:28:36,307-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:28:36,307-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:28:36,307-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:28:36,307-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:28:36,307-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:28:39,056-INFO-******Login test is passed!******
+2021-06-05 10:28:39,056-INFO-******Login test is passed!******
+2021-06-05 10:28:39,056-INFO-******Login test is passed!******
+2021-06-05 10:28:39,056-INFO-******Login test is passed!******
+2021-06-05 10:28:39,056-INFO-******Login test is passed!******
+2021-06-05 10:30:40,262-INFO-*************Test_003_AddCustomer********
+2021-06-05 10:30:40,262-INFO-*************Test_003_AddCustomer********
+2021-06-05 10:30:40,262-INFO-*************Test_003_AddCustomer********
+2021-06-05 10:30:40,262-INFO-*************Test_003_AddCustomer********
+2021-06-05 10:30:40,262-INFO-*************Test_003_AddCustomer********
+2021-06-05 10:30:43,819-INFO-******Login successful****
+2021-06-05 10:30:43,819-INFO-******Login successful****
+2021-06-05 10:30:43,819-INFO-******Login successful****
+2021-06-05 10:30:43,819-INFO-******Login successful****
+2021-06-05 10:30:43,819-INFO-******Login successful****
+2021-06-05 10:30:43,819-INFO-******starting Add customer Test***
+2021-06-05 10:30:43,819-INFO-******starting Add customer Test***
+2021-06-05 10:30:43,819-INFO-******starting Add customer Test***
+2021-06-05 10:30:43,819-INFO-******starting Add customer Test***
+2021-06-05 10:30:43,819-INFO-******starting Add customer Test***
+2021-06-05 10:30:43,976-INFO-***to click  customer item***
+2021-06-05 10:30:43,976-INFO-***to click  customer item***
+2021-06-05 10:30:43,976-INFO-***to click  customer item***
+2021-06-05 10:30:43,976-INFO-***to click  customer item***
+2021-06-05 10:30:43,976-INFO-***to click  customer item***
+2021-06-05 10:30:51,370-INFO-***Providing customer info***
+2021-06-05 10:30:51,370-INFO-***Providing customer info***
+2021-06-05 10:30:51,370-INFO-***Providing customer info***
+2021-06-05 10:30:51,370-INFO-***Providing customer info***
+2021-06-05 10:30:51,370-INFO-***Providing customer info***
+2021-06-05 10:30:51,640-INFO-***to input first name*****
+2021-06-05 10:30:51,640-INFO-***to input first name*****
+2021-06-05 10:30:51,640-INFO-***to input first name*****
+2021-06-05 10:30:51,640-INFO-***to input first name*****
+2021-06-05 10:30:51,640-INFO-***to input first name*****
+2021-06-05 10:30:51,704-INFO-***to input last  name*****
+2021-06-05 10:30:51,704-INFO-***to input last  name*****
+2021-06-05 10:30:51,704-INFO-***to input last  name*****
+2021-06-05 10:30:51,704-INFO-***to input last  name*****
+2021-06-05 10:30:51,704-INFO-***to input last  name*****
+2021-06-05 10:30:51,764-INFO-***to input dom*****
+2021-06-05 10:30:51,764-INFO-***to input dom*****
+2021-06-05 10:30:51,764-INFO-***to input dom*****
+2021-06-05 10:30:51,764-INFO-***to input dom*****
+2021-06-05 10:30:51,764-INFO-***to input dom*****
+2021-06-05 10:30:52,823-INFO-***Saving customer info*****
+2021-06-05 10:30:52,823-INFO-***Saving customer info*****
+2021-06-05 10:30:52,823-INFO-***Saving customer info*****
+2021-06-05 10:30:52,823-INFO-***Saving customer info*****
+2021-06-05 10:30:52,823-INFO-***Saving customer info*****
+2021-06-05 10:30:52,823-INFO-***Add customer validation***
+2021-06-05 10:30:52,823-INFO-***Add customer validation***
+2021-06-05 10:30:52,823-INFO-***Add customer validation***
+2021-06-05 10:30:52,823-INFO-***Add customer validation***
+2021-06-05 10:30:52,823-INFO-***Add customer validation***
+2021-06-05 10:30:52,969-INFO-*************Add customer Test Passed*************
+2021-06-05 10:30:52,969-INFO-*************Add customer Test Passed*************
+2021-06-05 10:30:52,969-INFO-*************Add customer Test Passed*************
+2021-06-05 10:30:52,969-INFO-*************Add customer Test Passed*************
+2021-06-05 10:30:52,969-INFO-*************Add customer Test Passed*************
+2021-06-05 10:30:53,011-INFO-********Ending  Test_003_AddCustomer  Test
+2021-06-05 10:30:53,011-INFO-********Ending  Test_003_AddCustomer  Test
+2021-06-05 10:30:53,011-INFO-********Ending  Test_003_AddCustomer  Test
+2021-06-05 10:30:53,011-INFO-********Ending  Test_003_AddCustomer  Test
+2021-06-05 10:30:53,011-INFO-********Ending  Test_003_AddCustomer  Test
+2021-06-05 10:30:53,975-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:30:53,975-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:30:53,975-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:30:53,975-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:30:53,975-INFO-******Title of Start Page  after logging in******
+2021-06-05 10:30:57,660-INFO-******Login test is passed!******
+2021-06-05 10:30:57,660-INFO-******Login test is passed!******
+2021-06-05 10:30:57,660-INFO-******Login test is passed!******
+2021-06-05 10:30:57,660-INFO-******Login test is passed!******
+2021-06-05 10:30:57,660-INFO-******Login test is passed!******
